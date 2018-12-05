@@ -1,18 +1,18 @@
 const tabs = [
     {
-        id: 0,
+        id: '0',
         title: 'World',
     },
     {
-        id: 1,
+        id: '1',
         title: 'People',
     },
     {
-        id: 2,
+        id: '2',
         title: 'Sport',
     },
     {
-        id: 3,
+        id: '3',
         title: 'Games',
     },
 ];
